@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2L.WS.Client", "D2L.WS.Client\D2L.WS.Client.csproj", "{66EE6CC6-6229-41CE-BAC9-5559CBFE807A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2L.WS.SampleApp", "D2L.WS.SampleApp\D2L.WS.SampleApp.csproj", "{07230D7B-7BB1-458D-B787-AF679B66D759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EE6CC6-6229-41CE-BAC9-5559CBFE807A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE6CC6-6229-41CE-BAC9-5559CBFE807A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE6CC6-6229-41CE-BAC9-5559CBFE807A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EE6CC6-6229-41CE-BAC9-5559CBFE807A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07230D7B-7BB1-458D-B787-AF679B66D759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07230D7B-7BB1-458D-B787-AF679B66D759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07230D7B-7BB1-458D-B787-AF679B66D759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07230D7B-7BB1-458D-B787-AF679B66D759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

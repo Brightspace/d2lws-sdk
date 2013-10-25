@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <FirstName>Jennifer</FirstName>
+    <LastName>Miller</LastName>
+    <UserName>jmiller</UserName>
+    <Password>jenifferm</Password>
+    <OrgDefinedId>SampleApp019</OrgDefinedId>
+  </User>
+  <User>
+    <FirstName>Kevin</FirstName>
+    <LastName>Walker</LastName>
+    <UserName>kwalker</UserName>
+    <Password>kevinw</Password>
+    <OrgDefinedId>SampleApp020</OrgDefinedId>
+  </User>
+</ArrayOfUser>

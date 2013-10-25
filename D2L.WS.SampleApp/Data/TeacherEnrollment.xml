@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfEnrollment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enrollment>
+    <OrgDefinedId>SampleApp019</OrgDefinedId>
+    <CourseOfferingCode>COCS101</CourseOfferingCode>
+  </Enrollment>
+  <Enrollment>
+    <OrgDefinedId>SampleApp019</OrgDefinedId>
+    <CourseOfferingCode>COMATH139</CourseOfferingCode>
+  </Enrollment>
+  <Enrollment>
+    <OrgDefinedId>SampleApp020</OrgDefinedId>
+    <CourseOfferingCode>COMUSIC341</CourseOfferingCode>
+  </Enrollment>
+  <Enrollment>
+    <OrgDefinedId>SampleApp020</OrgDefinedId>
+    <CourseOfferingCode>COBUS121</CourseOfferingCode>
+  </Enrollment>
+</ArrayOfEnrollment>

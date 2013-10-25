@@ -1,0 +1,32 @@
+1.0.0 (2009-07-13)
+------------------
+- Initial version
+
+2.1.0 (2009-11-04)
+------------------
+- Minimal functionality: CRUD on course templates and offerings
+- Design to quickly extend DevKit functionality to other org unit types and other types of domain objects
+
+3.0.0 (2010-07-07)
+------------------
+- Web service client-side stubs and proxies covering the following service contracts. The numbers below refer to the service contract versions.
+  - Desire2Learn Web Services (D2LWS):
+    - Descriptor Service 1.0-1.1
+    - Org Unit Management Service 1.0-1.2
+    - User Management Service 1.0-1.6
+    - Grades Management Service 1.0-1.2
+  - Desire2Learn Integration Pack for Mobile Solutions (D2LIPMS):
+    - Basic Service 1.0-1.1
+    - Advanced Service 1.0
+
+3.1.0 (2011-04-06)
+------------------
+- added Grades Management Service 1.3
+- added the Web service connection builder to simplify setting up connections to Web services using stubs
+
+3.2.0 (2012-04-18)
+------------------
+- upgraded to .NET 4.0
+- converted solution and project files to the Visual Studio 2010 format
+- deprecated Org Unit Management Service 1.2 stub (which was used only by Desire2Learn itself)
+- deprecated D2LIPMS service stubs

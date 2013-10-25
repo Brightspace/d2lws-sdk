@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <Template>
+      <Name>Introduction to Computer Science</Name>
+      <Code>CTCS101</Code>
+      <Path>CS101</Path>
+    </Template>
+    <Offering>
+      <Name>Introduction to Computer Science</Name>
+      <Code>COCS101</Code>
+      <Path>CS101</Path>
+    </Offering>
+  </Course>
+  <Course>
+    <Template>
+      <Name>Calculus1</Name>
+      <Code>CTMATH139</Code>
+      <Path>MATH139</Path>
+    </Template>
+    <Offering>
+      <Name>Calculus1</Name>
+      <Code>COMATH139</Code>
+      <Path>MATH139</Path>
+    </Offering>
+  </Course>
+  <Course>
+    <Template>
+      <Name>History of Music</Name>
+      <Code>CTMUSIC341</Code>
+      <Path>MUSIC341</Path>
+    </Template>
+    <Offering>
+      <Name>History of Music</Name>
+      <Code>COMUSIC341</Code>
+      <Path>MUSIC341</Path>
+    </Offering>
+  </Course>
+  <Course>
+    <Template>
+      <Name>Introduction to Accounting</Name>
+      <Code>CTBUS121</Code>
+      <Path>BUS121</Path>
+    </Template>
+    <Offering>
+      <Name>Introduction to Accounting</Name>
+      <Code>COBUS121</Code>
+      <Path>BUS121</Path>
+    </Offering>
+  </Course>
+</ArrayOfCourse>
