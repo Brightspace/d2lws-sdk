@@ -3,7 +3,7 @@ To use Desire2Learn Web Services Developer's Toolkit for .NET, add assembly D2L.
 Getting Started
 ===============
 
-Since you've already downloaded the Kit, all you need is to include assembly D2L.WS.Client (found in the "bin" folder) to your project's references.  If you prefer, you can also complie the Kit yourself.  The Kit requires .NET Framework version 4.0 or later.  The .NET framework may already be installed on your computer or can be downloaded for free from Microsoft's MSDN Web site.  We recommend Visual Studio 2008 or later for application development using the Kit.
+Since you've already downloaded the Kit, all you need is to include assembly D2L.WS.Client (found in the "bin" folder) to your project's references.  If you prefer, you can also compile the Kit yourself.  The Kit requires .NET Framework version 4.0 or later.  The .NET framework may already be installed on your computer or can be downloaded for free from Microsoft's MSDN Web site.  We recommend Visual Studio 2008 or later for application development using the Kit.
 
 Configuration
 =============
